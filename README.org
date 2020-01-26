@@ -1,11 +1,11 @@
 * Sping 2020 - 136 - Project 0
 
-* Last name:
+* Last name: Kuprikova
 
-* First name:
+* First name: Maria 
 
 
-* GitHub username:
+* GitHub username: MariKup
 
 * Notes:
 
